@@ -50,7 +50,9 @@ def calculate_carbon_footprint():
         return jsonify({'error': 'Invalid input data'}), 400
 
     # Perform more advanced calculations for the carbon footprint
-    carbon_footprint = lines_of_code * 0.1 + num_users * 2
+    #carbon_footprint = lines_of_code * 0.1 + num_users * 2
+    #the above line was not passing all the cases
+    carbon_footprint = int(lines_of_code) * 0.1 + int(num_users) * 2
 
     # Enhance integration with Azure services
     # Trigger actions based on the calculated carbon footprint using Azure Functions or Logic Apps
