@@ -79,8 +79,26 @@ To get a local copy up and running, follow these simple steps:
    ```
 2. Start the frontend development server
    ```sh
-   npm run serve
-   ```
+     npm install
+     ```
+
+Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+ Compiles and minifies for production
+```
+npm run build
+```
+
+ Lints and fixes files
+```
+npm run lint
+```
+
+ Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Roadmap
 
@@ -96,8 +114,8 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-- Project Link: [https://github.com/syedsami1/sustainability--hack](https://github.com/syedsami1/sustainability--hack)
-- Author: Samiulla(https://github.com/yourname)
+- Project Link: [http[s://github.com/syedsami1/sustainability--hack](https://github.com/syedsami1/sustainability--hack)
+- Author: Samiulla((https://github.com/syedsami1)
 
 ## Acknowledgements
 
