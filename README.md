@@ -10,10 +10,10 @@
     <br />
     <a href="https://github.com/syedsami1/sustainability--hack/blob/main/GSD%20Documentation.docx">
       <strong>Explore the docs »</strong>
-    </a>
+    </a >
     <br />
     <br />
-    <a href="https://github.com/syedsami1/sustainability--hack">View Demo</a>
+    <a href=" https://github.com/syedsami1/sustainability-- hack/blob/main/bandicam%202023-05-20%2019-20-32-260.mp4">View Demo</a>
     ·
     <a href="https://github.com/syedsami1/sustainability--hack/issues">Report Bug</a>
     ·
