@@ -8,7 +8,7 @@
   <p align="center">
     A cutting-edge hackathon project for green software development and sustainability.
     <br />
-    <a href="https://github.com/syedsami1/sustainability--hack/blob/main/GSD%20Documentation.docx">
+    <a href="https://github.com/syedsami1/sustainability-- hack/blob/main/GSD%20Documentation.docx">
       <strong>Explore the docs »</strong>
     </a >
     <br />
@@ -17,7 +17,7 @@
 
       <strong>View  demo »</strong>
 
-    </a>
+</a>
 
     ·
     <a href="https://github.com/syedsami1/sustainability--hack/issues">Report Bug</a>
