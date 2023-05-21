@@ -103,9 +103,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Contact
 
 - Project Link: [https://github.com/syedsami1/sustainability--hack](https://github.com/syedsami1/sustainability--hack)
-- Author: Samiulla (https://github.com/sy
-
-edsami1)
+- Author: Samiulla (https://github.com/syedsami1)
 
 ## Acknowledgements
 
