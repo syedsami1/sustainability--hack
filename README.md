@@ -1,5 +1,3 @@
-# Sustainability Hackathon Project
-
 <p align="center">
   <a href="https://github.com/syedsami1/sustainability--hack">
     <h3 align="center">Sustainability Hackathon Project</h3>
@@ -8,17 +6,14 @@
   <p align="center">
     A cutting-edge hackathon project for green software development and sustainability.
     <br />
-    <a href="https://github.com/syedsami1/sustainability-- hack/blob/main/GSD%20Documentation.docx">
+    <a href="https://github.com/syedsami1/sustainability--hack/blob/main/GSD%20Documentation.docx">
       <strong>Explore the docs »</strong>
-    </a >
+    </a>
     <br />
     <br />
-    <a href=" https://github.com/syedsami1/sustainability-- hack/blob/main/bandicam%202023-05-20%2019-20-32-260.mp4">
-
-      <strong>View  demo »</strong>
-
-</a>
-
+    <a href="https://github.com/syedsami1/sustainability--hack/blob/main/bandicam%202023-05-20%2019-20-32-260.mp4">
+      View demo »
+    </a>
     ·
     <a href="https://github.com/syedsami1/sustainability--hack/issues">Report Bug</a>
     ·
@@ -41,8 +36,14 @@
 - [Acknowledgements](#acknowledgements)
 
 ## About The Project
+The Sustainability Hackathon Project is an innovative and groundbreaking software solution developed to address the pressing sustainability challenges in the software industry. With a strong emphasis on cutting-edge technologies and practices, our project aims to revolutionize green software development by integrating energy-efficient algorithms, optimizing resource utilization, and promoting environmental responsibility.
 
-The Sustainability Hackathon Project is an innovative software solution developed to address sustainability challenges in the software industry. With a focus on green software development, our project aims to reduce the carbon footprint of software applications while promoting energy efficiency and environmental responsibility.
+By leveraging the power of Python, Flask, Vue.js, and Azure, we have created a comprehensive platform that enables developers to build sustainable software applications with minimal environmental impact. Through our project, we aspire to inspire the software industry to adopt sustainable practices and make a positive contribution towards a greener future.
+
+The core focus of our project is to minimize the carbon footprint of software applications, reduce energy consumption, and mitigate the ecological impact of the software development life cycle. By providing developers with powerful tools, best practices, and guidelines, we aim to empower them to create environmentally conscious software that not only meets the highest standards of performance and functionality but also aligns with the principles of sustainability.
+
+Join us on this transformative journey towards sustainable software development, where every line of code we write contributes to a cleaner and greener planet.
+
 
 ### Built With
 
@@ -84,26 +85,8 @@ To get a local copy up and running, follow these simple steps:
    ```
 2. Start the frontend development server
    ```sh
-     npm install
-     ```
-
-Compiles and hot-reloads for development
-```
-npm run serve
-```
-
- Compiles and minifies for production
-```
-npm run build
-```
-
- Lints and fixes files
-```
-npm run lint
-```
-
- Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+   npm run serve
+   ```
 
 ## Roadmap
 
@@ -119,8 +102,10 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-- Project Link: [http[s://github.com/syedsami1/sustainability--hack](https://github.com/syedsami1/sustainability--hack)
-- Author: Samiulla((https://github.com/syedsami1)
+- Project Link: [https://github.com/syedsami1/sustainability--hack](https://github.com/syedsami1/sustainability--hack)
+- Author: Samiulla (https://github.com/sy
+
+edsami1)
 
 ## Acknowledgements
 
